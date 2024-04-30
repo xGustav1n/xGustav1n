@@ -1,16 +1,36 @@
-### Hi there 👋
+## Fala ai pessoal!😁, eu sou o Gustavo.👨‍💻
+### Sou um desenvolvedor apaixonado por tecnologia. Transformando linhas de código em soluções incríveis com criatividade e dedicação. Sempre me desafiando em projetos. 🚀💻✅
 
-<!--
-**xGustav1n/xGustav1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGustav1n&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGustav1n&size_weight=0.5&count_weight=0.5&icons=true&theme=midnight-purple)
 
-Here are some ideas to get you started:
+### Tecnologias que uso no dia a dia!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Gustavo-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gustavo-Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conhecimentos gerais!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gustavo-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg">
+  <img align="center" alt="Gustavo-NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Gustavo-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Gustavo-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gustavo-Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
+</div>
+  
+  ## Redes sociais!
+ 
+<div> 
+  <a href="www.linkedin.com/in/gustavo-pereira-53330b28a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
