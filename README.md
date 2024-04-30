@@ -1,5 +1,8 @@
 ## Fala ai pessoal!😁, eu sou o Gustavo.👨‍💻
 ### Sou um desenvolvedor apaixonado por tecnologia. Transformando linhas de código em soluções incríveis com criatividade e dedicação. Sempre me desafiando em projetos. 🚀💻✅
+#
+• 💻 Hoje trabalho como <b>N2 CSOPS</b> <br>
+• 📚 Graduando <b>Sistema da Informação</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGustav1n&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGustav1n&size_weight=0.5&count_weight=0.5&icons=true&theme=midnight-purple)
