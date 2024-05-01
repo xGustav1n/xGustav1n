@@ -1,13 +1,15 @@
-## Fala ai pessoal!😁, eu sou o Gustavo.👨‍💻
-### Sou um desenvolvedor apaixonado por tecnologia. Transformando linhas de código em soluções incríveis com criatividade e dedicação. Sempre me desafiando em projetos. 🚀💻✅
+## Fala ai pessoal!😁, eu sou o Gustavo.👨‍💻 <br> Hey guys!, I'm Gustavo.
+
+### Sou um desenvolvedor apaixonado por tecnologia. Transformando linhas de código em soluções incríveis com criatividade e dedicação. Sempre me desafiando em projetos. 🚀💻✅ <br><br> I'm a developer passionate about technology. Transforming lines of code into incredible solutions with creativity and dedication. Always challenging myself with projects.
+
 #
-• 💻 Hoje trabalho como <b>N2 CSOPS</b> <br>
-• 📚 Graduando <b>Sistema da Informação</b>
+• 💻 Hoje trabalho como <b>N2 CSOPS</b> | Today I work as <b>N2 CSOPS</b> <br>
+• 📚 Graduando <b>Sistema da Informação</b> | Graduating <b>Information System</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGustav1n&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGustav1n&size_weight=0.5&count_weight=0.5&icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGustav1n&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGustav1n&size_weight=0.5&count_weight=0.5&icons=true&theme=transparent)
 
-### Tecnologias que uso no dia a dia!
+### Tecnologias que uso no dia a dia! <br> Technologies I use every day!
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
@@ -15,7 +17,7 @@
   <img align="center" alt="Gustavo-Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
 </div>
 
-### Conhecimentos gerais!
+### Conhecimentos gerais! <br> General knowledge!
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,8 +34,7 @@
   <img align="center" alt="Gustavo-Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
 </div>
   
-  ## Redes sociais!
- 
+  ## Redes sociais! <br> Social media! 
 <div> 
   <a href="www.linkedin.com/in/gustavo-pereira-53330b28a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
